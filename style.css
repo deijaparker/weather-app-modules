@@ -26,3 +26,9 @@ select:hover {
   width: 50vw;
   max-width: 400px;
 }
+
+.weather-description {
+  margin-top: 1em;
+  font-size: 20px;
+  text-align: center;
+}
