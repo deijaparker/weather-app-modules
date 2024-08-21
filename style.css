@@ -21,3 +21,8 @@ select:hover {
   align-items: center;
   margin: 2em;
 }
+
+.weather-img {
+  width: 50vw;
+  max-width: 400px;
+}
