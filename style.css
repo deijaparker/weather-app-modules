@@ -10,3 +10,7 @@ select {
   color: #fff;
   border-radius: 25px;
 }
+
+select:hover {
+  background-color: #555;
+}
