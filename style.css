@@ -14,3 +14,10 @@ select {
 select:hover {
   background-color: #555;
 }
+
+.weather {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2em;
+}
